@@ -1,8 +1,8 @@
 ---
-title: TERMS OF SERVICE
+title: Terms of service
 
 ---
- # TERMS OF SERVICE
+ # Terms of service
 
 OVERVIEW
 
