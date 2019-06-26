@@ -2,6 +2,8 @@
 title: Privacy policy
 
 ---
+# Privacy policy
+
 Internet De France Privacy Policy
 
 This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from https://stastic.net/ (the “Site”).
