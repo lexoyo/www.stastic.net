@@ -7,6 +7,8 @@
         "theme-{{ site.theme_color | default: "light" }}.scss"
         // "theme-{{ site.theme_fonts | default: "system" }}.scss"
 ;
-body * {
-  color: red !important;
+h1 {
+  background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
