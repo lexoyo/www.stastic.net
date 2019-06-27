@@ -69,23 +69,21 @@ You agree that your comments will not violate any right of any third-party, incl
 
 ## SECTION 7 - PERSONAL INFORMATION
 
-Your submission of personal information through the store is governed by our Privacy Policy. To view our Privacy Policy.
+Your submission of personal information is governed by our Privacy Policy. To view our Privacy Policy.
 
 
-SECTION 11 - ERRORS, INACCURACIES AND OMISSIONS
+## SECTION 8 - ERRORS, INACCURACIES AND OMISSIONS
 
-Occasionally there may be information on our site or in the Service that contains typographical errors, inaccuracies or omissions that may relate to product descriptions, pricing, promotions, offers, product shipping charges, transit times and availability. We reserve the right to correct any errors, inaccuracies or omissions, and to change or update information or cancel orders if any information in the Service or on any related website is inaccurate at any time without prior notice (including after you have submitted your order).
+Occasionally there may be information on our site or in the Service that contains typographical errors, inaccuracies or omissions that may relate to product descriptions, pricing, promotions, offers. We reserve the right to correct any errors, inaccuracies or omissions, and to change or update information or cancel orders if any information in the Service or on any related website is inaccurate at any time without prior notice (including after you have submitted your order).
 
 We undertake no obligation to update, amend or clarify information in the Service or on any related website, including without limitation, pricing information, except as required by law. No specified update or refresh date applied in the Service or on any related website, should be taken to indicate that all information in the Service or on any related website has been modified or updated.
 
 
-
-SECTION 12 - PROHIBITED USES
+## SECTION 9 - PROHIBITED USES
 
 In addition to other prohibitions as set forth in the Terms of Service, you are prohibited from using the site or its content: (a) for any unlawful purpose; (b) to solicit others to perform or participate in any unlawful acts; (c) to violate any international, federal, provincial or state regulations, rules, laws, or local ordinances; (d) to infringe upon or violate our intellectual property rights or the intellectual property rights of others; (e) to harass, abuse, insult, harm, defame, slander, disparage, intimidate, or discriminate based on gender, sexual orientation, religion, ethnicity, race, age, national origin, or disability; (f) to submit false or misleading information; (g) to upload or transmit viruses or any other type of malicious code that will or may be used in any way that will affect the functionality or operation of the Service or of any related website, other websites, or the Internet; (h) to collect or track the personal information of others; (i) to spam, phish, pharm, pretext, spider, crawl, or scrape; (j) for any obscene or immoral purpose; or (k) to interfere with or circumvent the security features of the Service or any related website, other websites, or the Internet. We reserve the right to terminate your use of the Service or any related website for violating any of the prohibited uses.
 
-
-SECTION 13 - DISCLAIMER OF WARRANTIES; LIMITATION OF LIABILITY
+## SECTION 10 - DISCLAIMER OF WARRANTIES; LIMITATION OF LIABILITY
 
 We do not guarantee, represent or warrant that your use of our service will be uninterrupted, timely, secure or error-free.
 
@@ -99,17 +97,17 @@ In no case shall Internet De France, our directors, officers, employees, affilia
 
 
 
-SECTION 14 - INDEMNIFICATION
+## SECTION 11 - INDEMNIFICATION
 
 You agree to indemnify, defend and hold harmless Internet De France and our parent, subsidiaries, affiliates, partners, officers, directors, agents, contractors, licensors, service providers, subcontractors, suppliers, interns and employees, harmless from any claim or demand, including reasonable attorneys’ fees, made by any third-party due to or arising out of your breach of these Terms of Service or the documents they incorporate by reference, or your violation of any law or the rights of a third-party.
 
 
-SECTION 15 - SEVERABILITY
+## SECTION 12 - SEVERABILITY
 
 In the event that any provision of these Terms of Service is determined to be unlawful, void or unenforceable, such provision shall nonetheless be enforceable to the fullest extent permitted by applicable law, and the unenforceable portion shall be deemed to be severed from these Terms of Service, such determination shall not affect the validity and enforceability of any other remaining provisions.
 
 
-SECTION 16 - TERMINATION
+## SECTION 13 - TERMINATION
 
 The obligations and liabilities of the parties incurred prior to the termination date shall survive the termination of this agreement for all purposes.
 
@@ -118,7 +116,7 @@ These Terms of Service are effective unless and until terminated by either you o
 If in our sole judgment you fail, or we suspect that you have failed, to comply with any term or provision of these Terms of Service, we also may terminate this agreement at any time without notice and you will remain liable for all amounts due up to and including the date of termination; and/or accordingly may deny you access to our Services (or any part thereof).
 
 
-SECTION 17 - ENTIRE AGREEMENT
+SECTION 14 - ENTIRE AGREEMENT
 
 The failure of us to exercise or enforce any right or provision of these Terms of Service shall not constitute a waiver of such right or provision.
 
@@ -127,18 +125,18 @@ These Terms of Service and any policies or operating rules posted by us on this 
 Any ambiguities in the interpretation of these Terms of Service shall not be construed against the drafting party.
 
 
-SECTION 18 - GOVERNING LAW
+SECTION 15 - GOVERNING LAW
 
 These Terms of Service and any separate agreements whereby we provide you Services shall be governed by and construed in accordance with the laws of 4-6 square Léon Blum, Puteaux, J, 92800, France.
 
 
-SECTION 19 - CHANGES TO TERMS OF SERVICE
+SECTION 16 - CHANGES TO TERMS OF SERVICE
 
 You can review the most current version of the Terms of Service at any time at this page.
 
 We reserve the right, at our sole discretion, to update, change or replace any part of these Terms of Service by posting updates and changes to our website. It is your responsibility to check our website periodically for changes. Your continued use of or access to our website or the Service following the posting of any changes to these Terms of Service constitutes acceptance of those changes.
 
 
-SECTION 20 - CONTACT INFORMATION
+SECTION 17 - CONTACT INFORMATION
 
 Questions about the Terms of Service should be sent to us at contact@stastic.net.
