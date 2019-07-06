@@ -1,5 +1,6 @@
 ---
 title: Why do I get 404 error pages
+layout: post
 
 ---
 ## Sometimes it is accurate
@@ -11,3 +12,6 @@ When you edit your site with Stastic, it is built with GitHub pages every time i
 If your site has been built and you still have if 404 not found page instead of an existing page, this is probably due to GitHub excellent server side cache. This means that GitHub has a system to optimize the speed at which your website is delivered and because of the system a new page take a while before it is accessible. 
 
 Use Stastic preview to see the latest version bypassing GitHub optimization system
+
+
+![Stastic preview menu](https://doc.stastic.net//assets/2019-07-06-966182.png)
