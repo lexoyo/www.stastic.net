@@ -1,6 +1,6 @@
 ---
 title: 'I have a bug, what can I do?'
-layout: default
+layout: post
 
 ---
 If you encounter any bug or if you have a question, [please contact us here](https://www.stastic.net/contact.html).
