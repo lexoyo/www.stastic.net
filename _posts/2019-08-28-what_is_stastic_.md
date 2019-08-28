@@ -2,7 +2,7 @@
 title: What is Stastic?
 
 ---
-As explained in the about page of this website;
+As explained in [the about page](/about) of this website;
 
 > Stastic is an online website editor used to create a website or edit one you already have.
 > It has never been that easy to create and edit static websites:
