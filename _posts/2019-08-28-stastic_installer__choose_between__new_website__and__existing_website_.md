@@ -4,7 +4,7 @@ title: 'Stastic installer: choose between "new website" and "existing website"'
 ---
 When you start [Stastic main app - the installer](https://stastic.net), you will have a choice to make:
 
-![2019-08-03-529309.png](https://www.stastic.net//assets/2019-08-03-529309.png)
+![Stastic welcome page](https://www.stastic.net//assets/2019-08-03-529309.png)
 
 ## New website
 
