@@ -6,6 +6,8 @@ When you start [Stastic main app - the installer](https://stastic.net), you will
 
 ![Stastic welcome page](https://www.stastic.net//assets/2019-08-03-529309.png)
 
+Once you made your choice, you may want to check the section "[how to install stastic]".
+
 ## New website
 
 If you want to create a new website, choose this option! You will be able to select a theme in our list of free open source themes, and then you will start customizing the content with Stastic editor in minutes.
