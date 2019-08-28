@@ -9,9 +9,9 @@ theme_color: light
 baseurl: /
 url: 'https://www.stastic.net'
 remote_theme_layouts:
-	- default
-	- home
-	- page
-	- post
+  - default
+  - home
+  - page
+  - post
   - category-post
-	- category_index
+  - category_index
