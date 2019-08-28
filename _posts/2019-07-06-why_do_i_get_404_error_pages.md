@@ -3,9 +3,11 @@ title: Why do I get 404 error pages
 layout: post
 
 ---
-## Sometimes it is accurate
+## Sometimes you need to wait
 
-When you edit your site with Stastic, it is built with GitHub pages every time it changes. This takes about 20 to 30 seconds. During this time your changes such as creating a new page are not live, so if you visit this page it will display 404 not found page.
+When you edit your site with Stastic, it is built with GitHub pages every time it changes. This takes about 20 to 30 seconds. During this time your changes such as creating a new page are not live, so if you visit this page it will display 404 not found page. 
+
+Also note that you may [try to  clear your browser's cache](https://support.mozilla.org/en-US/kb/how-clear-firefox-cache), this might help.
 
 ## Sometimes it is a good thing
 
