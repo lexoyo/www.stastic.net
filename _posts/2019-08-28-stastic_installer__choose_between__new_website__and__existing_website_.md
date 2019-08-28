@@ -6,7 +6,7 @@ When you start [Stastic main app - the installer](https://stastic.net), you will
 
 ![Stastic welcome page](https://www.stastic.net//assets/2019-08-03-529309.png)
 
-Once you made your choice, you may want to check the section "[How to install stastic]".
+Once you made your choice, you may want to check the section "[How to install Stastic]".
 
 ## New website
 
