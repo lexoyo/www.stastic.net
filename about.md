@@ -26,11 +26,11 @@ Here is how you try Stastic:
 
 
 ![2019-08-03-356815.png](https://www.stastic.net//assets/2019-08-03-356815.png)
-,
+
 ![2019-08-03-615039.png](https://www.stastic.net//assets/2019-08-03-615039.png)
-,
+
 ![2019-08-03-789171.png](https://www.stastic.net//assets/2019-08-03-789171.png)
-,
+
 ![2019-08-03-749239.png](https://www.stastic.net//assets/2019-08-03-749239.png)
-,
+
 ![2019-08-03-408974.png](https://www.stastic.net//assets/2019-08-03-408974.png)
