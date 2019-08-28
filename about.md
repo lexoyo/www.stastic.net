@@ -34,3 +34,7 @@ Here is how you try Stastic:
 ![2019-08-03-749239.png](https://www.stastic.net//assets/2019-08-03-749239.png)
 
 ![2019-08-03-408974.png](https://www.stastic.net//assets/2019-08-03-408974.png)
+
+## Terms of service
+
+When you use Stastic, you agree to the [Terms of service](https://www.stastic.net/terms_of_service).
