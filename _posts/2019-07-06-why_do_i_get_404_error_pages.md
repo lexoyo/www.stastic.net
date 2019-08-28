@@ -13,7 +13,7 @@ Also note that you may [try to  clear your browser's cache](https://support.mozi
 
 If your site has been built and you still have if 404 not found page instead of an existing page, this is probably due to GitHub excellent server side cache. This means that GitHub has a system to optimize the speed at which your website is delivered and because of the system a new page take a while before it is accessible. 
 
-Use Stastic preview to see the latest version bypassing GitHub optimization system
+**Use Stastic preview to bypass GitHub cache** and always see the latest version of your website*
 
 
 ![Stastic preview menu](https://doc.stastic.net//assets/2019-07-06-966182.png)
