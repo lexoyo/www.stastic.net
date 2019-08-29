@@ -16,9 +16,9 @@ It has never been that easy to create and edit static websites:
 * edit the content with a clean attractive online editor, optimized for mobile and tablet
 * if you need to customize your website design or features, hand over what you created to a developer or web designer
 
-Here is how you try Stastic:
+Here is how you can try Stastic:
 
-1. Login with Github and authorise Stastic 
+1. Open [Stastic installer](https://stastic.net) and login with Github and authorise Stastic 
 2. Select a design in a list of curated themes **or** install Stastic on your existing site on Github
 3. Open Stastic editor in your browser: `https://yourdomain.com/admin` or use the URL provided for free by Github: `https://[yourname].github.io/admin`
 4. Edit the content, create pages, write blog posts, change the navigation, add Google analytics tracking, customize the pages URLs, and more
