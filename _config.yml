@@ -19,6 +19,8 @@ permalink: '/:slug'
 collections:
   posts:
     permalink: /docs/:slug
+  fr:
+    permalink: /docs/fr/:slug
 
 
 #    permalink: /:collection/:name
