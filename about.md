@@ -22,7 +22,8 @@ Here is how you can try Stastic:
 2. Select a design in a list of curated themes **or** install Stastic on your existing site on Github
 3. Open Stastic editor in your browser: `https://yourdomain.com/admin` or use the URL provided for free by Github: `https://[yourname].github.io/admin`
 4. Edit the content, create pages, write blog posts, change the navigation, add Google analytics tracking, customize the pages URLs, and more
-5. If you need, provide the site to a developer, (s)he will know how to customize every bit of design
+
+when you are happy with your content, if you want to add features or change the design, you can do so just like with any Jekyll site or hand over the site to a developer, (s)he will know how to customize every bit of it right away.
 
 
 ![2019-08-03-356815.png](https://www.stastic.net//assets/2019-08-03-356815.png)
