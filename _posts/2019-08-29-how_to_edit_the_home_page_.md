@@ -14,6 +14,7 @@ The cause of a page not taking into account what you provide in Stastic editor a
 When you create a page in Stastic, you can set the layout of this page (see the drop down list at the bottom while editing a page?). Some layouts light simply ignore the content of your page and simply display HTML content. This is often done for home pages which might have a more complex design than just one text content. Note that sometimes, these "hard coded pages" take some settings of your website into accout.
 
 > Very often, to edit the title displayed on your home page, change the title in the settings of your website. See the section "[Stastic UI, the general settings]" to learn more about this.
+> Other interesting section: "[Why does I get the message "this page is not editable"?]"
 
 If a page you need to edit is a "hard coded page" and has no way to change it throug page content nor general settings, then you have several things to try in order to change its content:
 
