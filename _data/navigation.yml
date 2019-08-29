@@ -1,0 +1,6 @@
+- name: Home
+  url: /
+- name: A test page
+  url: /test.html
+- name: External link
+  url: https://duckduckgo.org
