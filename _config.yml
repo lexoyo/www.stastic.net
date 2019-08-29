@@ -19,8 +19,10 @@ permalink: '/:slug'
 collections:
   posts:
     permalink: /docs/:slug
+    lang: en
   fr:
     permalink: /docs/fr/:slug
+    lang: fr
 
 
 #    permalink: /:collection/:name
