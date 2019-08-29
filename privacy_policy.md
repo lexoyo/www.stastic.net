@@ -2,7 +2,6 @@
 title: Privacy policy
 
 ---
-# Privacy policy
 
 Internet De France Privacy Policy
 
