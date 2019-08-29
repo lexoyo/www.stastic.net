@@ -13,6 +13,6 @@ Lets open "Pages" from menu:
 
 ![Pages list in Stastic editor](https://www.stastic.net//assets/2019-08-04-801169.png)
 
-There you can see a list of pages. Please note that some themes have no pages by default and do not have any navigation to list the pages on the home page. In this case, when you create pages you will be able to access it but your users will have hard time browsing your website.
+There you can see a list of pages. Please note that some themes have no pages by default and do not have any navigation to list the pages on the home page. In this case, when you create pages you will be able to access it but your users will have hard time browsing your website. If a page does not show up in your website after you have created it, please check the section "[Why are my pages or posts not visible in the website?]".
 
 You might want to know [How to change the design of my website?].
