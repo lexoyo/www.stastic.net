@@ -15,4 +15,4 @@ remote_theme_layouts:
   - post
   - category-post
   - category_index
-permalink: '/:slug/:title'
+permalink: '/:slug'
