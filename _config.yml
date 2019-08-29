@@ -24,6 +24,8 @@ collections:
   fr:
     permalink: /docs/fr/:slug
     lang: fr
+    output: true
+
 
 #    permalink: /:collection/:name
 exclude: [vendor]
