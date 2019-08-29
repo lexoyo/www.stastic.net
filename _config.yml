@@ -16,3 +16,6 @@ remote_theme_layouts:
   - category-post
   - category_index
 permalink: '/:slug'
+collections:
+  posts:
+    permalink: /:collection/:name
