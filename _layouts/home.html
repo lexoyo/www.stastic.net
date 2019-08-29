@@ -36,8 +36,11 @@
       <div class="container mx-auto px-2 py-2">
         {% assign collec = site[page.lang || "posts"] %} 
         {{ page.lang || "posts" }}
-        wwww
+        aaa
         {{ collec | jsonify }}
+        bbb
+        {{ site.fr | jsonify }}
+        ccc
         {% for post in collec %}
           {% include post_block.html %}
         {% endfor %}
