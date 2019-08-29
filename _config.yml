@@ -2,9 +2,9 @@ remote_theme: broccolini/athena
 title: Stastic Website Editor
 description: Stastic is the easiest way to manage a static website.
 github_repo: ''
-github_username: internet-de-france
-social_link: 'https://twitter.com/lexoyo'
-social_username: lexoyo
+github_username: ''
+social_link: ''
+social_username: ''
 theme_color: light
 baseurl: /
 url: 'https://www.stastic.net'
