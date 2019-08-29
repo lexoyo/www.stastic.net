@@ -1,5 +1,6 @@
 ---
-title: Fr
+title: Accueil
 layout: home
+lang: fr
 
 ---
