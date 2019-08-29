@@ -9,4 +9,6 @@ One important thing to edit when you create a new website with Stastic editor ar
 
 This section might be of interest for you: "[Stastic UI, the general settings]"
 
-Here are common "theme options" you might want to know about. Please note that if an option does not show up in the "General settings" page of Stastic, it is probably not supported by the theme. Also if you change the value of an option to something not expected, it might break your website until you revert to a correct value. See the section "[Whatever I change, my website does not update?]"
+Here are common "theme options" you might want to know about. Please note that if an option does not show up in the "General settings" page of Stastic, it is probably not supported by the theme. Also if you change the value of an option to something not expected, it might break your website until you revert to a correct value. See the section "[Whatever I change, my website does not update]"
+
+* 
