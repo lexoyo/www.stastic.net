@@ -12,4 +12,4 @@ Lets open the "Settings" page from menu:
 
 ![Stastic "General settings" page](https://www.stastic.net//assets/2019-08-04-315678.png)
 
-There you can see all the options of your website. Some options are standard and you can find the official documentation here]()https://jekyllrb.com/docs/configuration/) but other options are defined and used only by the theme you use. In the later case, you might find info about the settings in the theme docs.
+There you can see all the options of your website. Some options are standard and you can find the official documentation here](https://jekyllrb.com/docs/configuration/) but other options are defined and used only by the theme you use. In the later case, you might find info about the settings in the theme docs.
