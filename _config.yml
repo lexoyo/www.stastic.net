@@ -15,5 +15,4 @@ remote_theme_layouts:
   - post
   - category-post
   - category_index
-
-permalink: /:lang/:title
+permalink: '/:slug/:title'
