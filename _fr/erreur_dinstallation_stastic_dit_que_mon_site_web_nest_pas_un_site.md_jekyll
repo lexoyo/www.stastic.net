@@ -1,5 +1,5 @@
 ---
-title: 'Erreur d''installation: Stastic indique que mon site n''est pas un site Jekyll.'
+title: 'Erreur d''installation: Stastic indique que mon site n''est pas un site Jekyll'
 
 ---
 Vous essayez probablement d'installer Stastic sur un site existant - voir la section "[Comment installer Stastic ?](/docs/fr/comment-installer-stastic)", et lorsque vous le faites, Stastic indique que **votre site "n'est pas un site Jekyll".*
