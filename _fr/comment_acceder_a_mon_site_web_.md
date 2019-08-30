@@ -1,5 +1,5 @@
 ---
-title: Comment accéder à mon site web?
+title: Comment accéder à mon site ?
 
 ---
 Avec Stastic, vous pouvez créer un nouveau site (voir la section "[CommentinstallerStastic?](/docs/fr/comment-installer-stastic)"). Stastic vous demandera un nom et créera un projet (repository) sur Github. 
