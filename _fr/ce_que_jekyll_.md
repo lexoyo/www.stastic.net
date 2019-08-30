@@ -1,5 +1,5 @@
 ---
-title: Qu'est-ce que Jekyll?
+title: Qu'est-ce que Jekyll ?
 
 ---
 Jekyll est un projet open source et comme expliqué sur [le site officiel](https://jekyllrb.com/):
