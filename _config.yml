@@ -1,5 +1,3 @@
-remote_theme: broccolini/athena
-theme: broccolini/athena
 title: Stastic Website Editor
 description: Stastic is the easiest way to manage a static website.
 github_repo: ''
@@ -17,16 +15,40 @@ remote_theme_layouts:
   - category-post
   - category_index
 permalink: '/:slug'
-layout: post
+
+defaults:
+  -
+    scope:
+      path: "" 
+    values:
+      layout: "post"
+  -
+    scope:
+      path: "" 
+      type: "posts" 
+    values:
+      lang: "en"
+  -
+    scope:
+      path: "" 
+      type: "fr" 
+    values:
+      lang: "fr"
+  -
+    scope:
+      path: "" 
+      type: "pages" 
+    values:
+      layout: "page"
+
+
 collections:
   posts:
     permalink: /docs/:slug
-    lang: en
+    output: true
   fr:
     permalink: /docs/fr/:slug
-    lang: fr
     output: true
-    layout: post
 
 
 #    permalink: /:collection/:name

@@ -1,5 +1,7 @@
 ---
 title: Terms of service
+lang: en
+nav: false
 
 ---
 ## OVERVIEW

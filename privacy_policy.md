@@ -1,5 +1,7 @@
 ---
 title: Privacy policy
+lang: en
+nav: false
 
 ---
 
