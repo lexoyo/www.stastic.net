@@ -12,3 +12,4 @@ Pour accéder à votre site en ligne si vous avez perdu l'adresse, vous devez ac
 
 
 Ensuite, vous voulez probablement savoir comment accéder à l'admin de votre site (Stastic éditeur) ? Alors consultez la section "[Comment accéder à Stastic admin?](/docs/fr/comment-acceder-a-stastic-admin)".
+
