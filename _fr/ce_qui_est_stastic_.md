@@ -1,5 +1,5 @@
 ---
-title: Qu'est-ce que Stastic?
+title: Qu'est-ce que Stastic ?
 
 ---
 Comme expliqué dans [la page à propos](/a_propos) de ce site:
