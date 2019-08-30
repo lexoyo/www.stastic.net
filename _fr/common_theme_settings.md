@@ -11,4 +11,4 @@ Comme vous le savez probablement, [Stastic est optimisé par Jekyll](https://jek
 
 Cette section pourrait vous intéresser: "[Interface utilisateur Stastic, paramètres généraux]" 
 
-Veuillez noter que si une option ne s'affiche pas dans la page "Paramètres généraux" de Stastic, elle n'est probablement pas prise en charge par le thème. De même, si vous modifiez la valeur d'une option en une valeur inattendue, votre site Web pourrait être endommagé jusqu'à ce que vous reveniez à une valeur correcte. Voir la section "[Quoi que je change, mon site Web ne se met pas à jour]".
+Veuillez noter que si une option ne s'affiche pas dans la page "Paramètres généraux" de Stastic, elle n'est probablement pas prise en charge par le thème. De même, si vous modifiez la valeur d'une option en une valeur inattendue, votre site pourrait être endommagé jusqu'à ce que vous reveniez à une valeur correcte. Voir la section "[Quoi que je change, mon site Web ne se met pas à jour]".

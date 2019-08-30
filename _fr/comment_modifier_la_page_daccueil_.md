@@ -12,9 +12,9 @@ La cause d'une page ne prenant pas en compte le contenu que vous fournissez dans
 
 Lorsque vous créez une page dans Stastic, vous pouvez définir le modèle utilisé pour mettre en page cette page (voir la liste déroulante en bas lors de la modification d'une page). Certains modèles ignorent simplement le contenu de votre page et affichent seulement du contenu HTML. Ceci est souvent fait pour les pages d'accueil qui peuvent avoir une conception plus complexe qu'un seul contenu de texte. 
 
-Notez que parfois, ces "pages codées en dur" prennent en compte certains paramètres de votre site Web. 
+Notez que parfois, ces "pages codées en dur" prennent en compte certains paramètres de votre site. 
 
-> Très souvent, pour modifier le titre affiché sur votre page d'accueil, modifiez le titre dans les paramètres de votre site Web. Voir la section "[Interface utilisateur stastique, les paramètres généraux]" "pour en savoir plus à ce sujet. 
+> Très souvent, pour modifier le titre affiché sur votre page d'accueil, modifiez le titre dans les paramètres de votre site. Voir la section "[Interface utilisateur stastique, les paramètres généraux]" "pour en savoir plus à ce sujet. 
 > Autre section intéressante: "[Pourquoi le message" Cette page n'est pas éditable "?" "
 
 Si vous désirez modifier une page "codée en dur", vous devez essayer plusieurs choses pour changer son contenu: 
