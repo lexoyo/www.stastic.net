@@ -6,4 +6,4 @@ L'application Stastic a accès à vos données publiques sur Github, tant que vo
 
 Vos données sont donc vraiment sur Github et nous faisons confiance à cette société pour qu’elles ne les utilisent pas sans votre consentement ni  à des fins publicitaires. 
 
-S'il vous plaît [contactez-nous comme expliqué sur cette page](/contact) si vous avez des problèmes ou des idées concernant confidentialité.
+S'il vous plaît [contactez-nous comme expliqué sur cette page](/contact-fr) si vous avez des problèmes ou des idées concernant confidentialité.
