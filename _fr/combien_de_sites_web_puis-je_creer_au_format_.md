@@ -1,5 +1,5 @@
 ---
-title: Combien de sites puis-je créer avec Stastic?
+title: Combien de sites puis-je créer avec Stastic ?
 layout: post
 
 ---
