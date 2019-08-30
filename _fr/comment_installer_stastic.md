@@ -1,5 +1,5 @@
 ---
-title: Comment installer Stastic?
+title: Comment installer Stastic ?
 
 ---
 [Stastic est un éditeur de sites internet](https://www.stastic.net), vous voudrez donc l'installer sur un site que vous avez déjà ou que Stastic créera pour vous - consultez la section "[Stastic installeur: choisissez entre "nouveau site" et "site existant"](/docs/fr/stastic-install-choisir-entre-le-nouveau-site-web-et-le-site-web-existant)"
