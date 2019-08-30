@@ -1,5 +1,5 @@
 ---
-title: Comment accéder à votre éditeur Stastic ?
+title: Comment accéder à mon éditeur Stastic ?
 
 ---
 Avec Stastic, vous pouvez créer un nouveau site internet ou installer l'éditeur sur un site existant (reportez-vous à lasection «[Comment installer Stastic?](/docs/fr/comment-installer-stastic)»).  Afin de modifier le contenu de votre site, vous voudrez accéder à "l'admin" ou "éditeur". 
