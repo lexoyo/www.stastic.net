@@ -8,4 +8,4 @@ Jekyll est un projet open source et comme expliqué sur [le site officiel](https
 
 À l’origine, Jekyll était - et continue de l’être dans une certaine mesure, réservé aux personnes ayant une connaissance approfondie du des technologies, voire des hackers informatiques. Il est conçu pour être exécuté sur votre ordinateur en ligne de commande. 
 
-La mission principale de Stastic est de rendre possible et agréable l’utilisation de Jekyll en ligne, à l’aide des pages Github.
+La mission principale de Stastic est de rendre possible et agréable l’utilisation de Jekyll depuis votre navigateur.
