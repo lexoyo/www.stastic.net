@@ -1,0 +1,6 @@
+---
+title: >-
+  Erreur d'installation: Stastic indique que mon site Web n'est pas un site
+  Jekyll.
+---
+Vous essayez probablement d'installer Stastic sur un site Web existant - voir la section "[Comment installer Stastic?]", Et lorsque vous le faites, Stastic indique que votre site Web n'est "pas un site Jekyll". > Votre site Web n'est pas un site Jekyll Cela signifie que le site Web que vous avez sélectionné ne contient aucun fichier `_config.yml` dans son dossier racine. Ce fichier est tout ce qu'il faut pour avoir un site Web Jekyll, et il est vraiment facile d'en ajouter un à un site Web que vous avez déjà. Voir [cette documentation officielle pour en savoir plus sur ce fichier et les options qu'il peut contenir](https://jekyllrb.com/docs/configuration/).
