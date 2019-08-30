@@ -25,12 +25,6 @@ defaults:
   -
     scope:
       path: "" 
-      type: "post" 
-    values:
-      lang: "en"
-  -
-    scope:
-      path: "" 
       type: "posts" 
     values:
       lang: "en"
@@ -40,12 +34,6 @@ defaults:
       type: "fr" 
     values:
       lang: "fr"
-  -
-    scope:
-      path: "" 
-      type: "page" 
-    values:
-      layout: "page"
   -
     scope:
       path: "" 
