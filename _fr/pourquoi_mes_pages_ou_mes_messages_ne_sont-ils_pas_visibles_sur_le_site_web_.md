@@ -13,5 +13,5 @@ Voyez-vous des pages et des posts dans l'admin comme dans l'image suivante, mais
 Si c'est le cas, le problème est probablement l'un de ceux-ci: 
 
 1. Il y a un problème dans le site qui provoque une erreur lorsque les pages Github tentent de le construire. Cela empêcherait le site de mettre à jour son contenu. Veuillez lire la section "[Quoi que je change, mon site ne se met pas à jour](/docs/fr/quoi-que-je-change-mon-site-ne-met-pas-a-jour)" 
-
 2. Votre thème peut ne pas prendre en charge les pages ou les messages, ce qui signifie qu'il n'a aucun moyen d'afficher une liste de pages ou messages sur la page d'accueil. Dans ce cas, lorsque vous créez des pages ou des publications, vous pourrez y accéder avec l’adresse complète des pages ou des publications, mais vos utilisateurs auront du mal à parcourir votre site pour les trouver. Ensuite, vous voudrez peut-être savoir [Comment changer le design de mon site?](/docs/fr/comment-changer-la-conception-de-mon-site-web).
+3. Votre thème a peut-être un système de page basé sur les "Data", vérifiez si la section "Data" contient un fichier "Navigation" par exemple
