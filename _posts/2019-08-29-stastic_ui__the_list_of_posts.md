@@ -14,5 +14,5 @@ Lets open "Posts" list from the menu:
 
 There you can see a list of posts in your website. Please note that some themes have no posts by default and do not have any place to list the posts or the categories. In this case, when you create posts you will be able to access them but your users will have hard time browsing your website to find them - they need to have the full URL to a post to read it. If a post does not show up in your website after you have created it, please check the section "[Why are my pages or posts not visible in the website?]".
 
-Then you might want to know [How to change the design of my website?].
+Then you might want to know [How to change the design of my website?](/docs/how-to-change-the-design-of-my-website).
 

@@ -9,4 +9,4 @@ As explained in the section "[Where do the themes come from?]", Stastic offers f
 1- Create a new website on Github pages, with a theme provided by a [third party website such as these once](https://duckduckgo.com/?q=jekyll+themes&t=ffab&ia=web), for free or paid, then install Stastic on this new website as explained in the section "[How to install Stastic]"
 2- Contact us [as explained in the contact page here](/contact), and ask for the contact of a Jekyll designer, we will be glad to put you in contact with a freelancer or a company.
 
-You might also be interested in the section "[How to change the design of my website?]".
+You might also be interested in the section "[How to change the design of my website?](/docs/how-to-change-the-design-of-my-website)".
