@@ -4,7 +4,7 @@ title: Why are my pages or posts not visible in the website?
 ---
 So you are trying to add content to your website with Stastic, but the pages or posts you add are not visible? 
 
-__Did you read the section "[ Stastic UI, how to create pages]"? And what about the section "[Why do I get 404 error pages]"?__
+__Did you read the section "[Stastic UI, how to create pages](/docs/stastic-ui-how-to-create-pages)"? And what about the section "[Why do I get 404 error pages]"?__
 
 Do you see pages and posts in the admin like in the following image, but they do not show up in the website?
 
