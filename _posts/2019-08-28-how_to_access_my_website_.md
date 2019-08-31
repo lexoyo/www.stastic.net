@@ -11,4 +11,4 @@ In order to access your live website, if you have lost the address, you need to 
 
 ![Github project settings, "Github pages" section](https://www.stastic.net//assets/2019-08-03-571685.png)
 
-Next you probably want to know how to access your website's admin (Stastic editor), then take a look at the section "[How to access Stastic admin?]".
+Next you probably want to know how to access your website's admin (Stastic editor), then take a look at the section "[How to access Stastic admin?](/docs/how-to-access-stastic-admin)".

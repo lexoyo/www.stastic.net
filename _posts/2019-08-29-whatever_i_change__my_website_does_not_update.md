@@ -8,7 +8,7 @@ __Did you read the section "[Stastic UI, how to create pages](/docs/stastic-ui-h
 
 There is probably a problem with your website content which causes an error when Github pages tries to build it. This prevents the website from updating any content - tip: change an existing content to see if it is your case. Also if this is the case you will receive an email from Github pages which says that there was a problem building your site. It may be in a post or page or in the settings. 
 
-__Note: if only one page is not updating, please read the section "[How to edit the home page?]"__
+__Note: if only one page is not updating, please read the section "[How to edit the home page?](/docs/how-to-edit-the-home-page)"__
 
 The "easy" way of fixing this is to undo what you did recently to find out what is wrong and when it starts to update again. You can use [Github commits views](https://help.github.com/en/articles/differences-between-commit-views) to see what was modified and when. 
 
