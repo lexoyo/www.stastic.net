@@ -20,4 +20,4 @@ If a page you need to edit is a "hard coded page" and has no way to change it th
 
 1. Try to change the content of the page from the page list, then try to change the settings in the "General settings" page in Stastic
 2. Go to this page from the page list, and change it's "layout meta data" which is the drop down list at the bottom, bellow the text content.
-3. Edit the HTML layout. For this you will probably need to see the source code of your theme (checkout in the list of themes on [Stastic installer here](https://stastic.net/#/themes) there is a "Source" button for each theme). You might need professional support for this, checkout the section "[Professional support and custom developments]".
+3. Edit the HTML layout. For this you will probably need to see the source code of your theme (checkout in the list of themes on [Stastic installer here](https://stastic.net/#/themes) there is a "Source" button for each theme). You might need professional support for this, checkout the section "[Professional support and custom developments](/docs/professional-support-and-custom-developments)".

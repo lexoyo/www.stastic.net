@@ -13,4 +13,4 @@ __Note: if only one page is not updating, please read the section "[How to edit 
 The "easy" way of fixing this is to undo what you did recently to find out what is wrong and when it starts to update again. You can use [Github commits views](https://help.github.com/en/articles/differences-between-commit-views) to see what was modified and when. 
 
 
-A more professional way is to clone the website code on your local computer and run [Jekyll command lines](https://jekyllrb.com/docs/) to build the website and get a detailed error. Also you might want to read the section "[Professional support and custom developments]" to pay for support. 
+A more professional way is to clone the website code on your local computer and run [Jekyll command lines](https://jekyllrb.com/docs/) to build the website and get a detailed error. Also you might want to read the section "[Professional support and custom developments](/docs/professional-support-and-custom-developments)" to pay for support. 
