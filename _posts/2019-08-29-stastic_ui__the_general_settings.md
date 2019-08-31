@@ -14,4 +14,4 @@ Lets open the "Settings" page from menu:
 
 There you can see all the options of your website. Some options are standard and you can find the official documentation here](https://jekyllrb.com/docs/configuration/) but other options are defined and used only by the theme you use. In the later case, you might find info about the settings in the theme docs.
 
-Also read the section "[Common theme settings]".
+Also read the section "[Common theme settings](/docs/common-theme-settings)".

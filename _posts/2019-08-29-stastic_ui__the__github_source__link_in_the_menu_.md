@@ -10,4 +10,4 @@ When you open Stastic editor as explained in the section “[How to access Stast
 
 There you can see the "Github source" link which leads to where your website's files are stored. You can check it out, edit files on Github, and come back to Stastic.
 
-You might also be interested in the section "[What is Github pages?]".
+You might also be interested in the section "[What is Github pages?](/docs/what-is-github-pages)".
