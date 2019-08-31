@@ -1,0 +1,8 @@
+<details class="py-2 mb-2 prose">
+  <summary style="cursor: pointer;" class="h3 col-9 mb-0">
+    {{ post.title }}
+  </summary>
+<a class="no-underline-hover h5 block py-1 mb-1" title="Open the full article" target="_blank" href="{{ post.url | relative_url }}">
+  <p>{{ post.content | strip_html | truncatewords:30 }}</p>
+  Read more</a>
+</details>

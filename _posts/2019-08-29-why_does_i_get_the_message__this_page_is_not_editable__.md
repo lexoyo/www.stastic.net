@@ -1,5 +1,8 @@
 ---
 title: Why do I get the message "this page is not editable"?
+tags:
+  - login
+  - install
 
 ---
 

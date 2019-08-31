@@ -1,0 +1,7 @@
+
+{% if page.lang and page.lang != "en" %}
+  {% assign collec = site[page.lang] %}
+{% else %}
+  {% assign collec = site.posts %}
+{% endif %}
+
