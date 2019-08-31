@@ -17,7 +17,7 @@ This is a preview of the website you are editing with Stastic. It is always up t
 
 Once the build is over, the wheel disapears and the preview is automatically updated. 
 
-**You can read more about the build in the section "[Why is Static so slow when it comes to creating and writing files to Github?]".**
+**You can read more about the build in the section "[Why is Static so slow when it comes to creating and writing files to Github?](/docs/why-is-static-so-slow-when-it-comes-to-creating-and-writing-files-to-github)".**
 
 Also note that there is an "external link" symbol beside the "Website" menu (![the external link symbol](https://www.stastic.net//assets/2019-08-04-371034.png)). This link is special becaus it ads a random number at the end of your website URL, this is meant to prevent your browser cache for you to see the latest version of your website, e.g. `https://your-website.com?1783`.
 
