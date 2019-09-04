@@ -1,5 +1,7 @@
 ---
 title: 'Installation Stastic: choisissez entre "nouveau site" et "site existant"'
+tags:
+  - install
 
 ---
 Lorsque vous démarrez [l'application principale Stastic - l'installateur](https://stastic.net), vous aurez un choix à faire : 

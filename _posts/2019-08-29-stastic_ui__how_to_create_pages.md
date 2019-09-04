@@ -1,5 +1,7 @@
 ---
 title: 'Stastic UI, how to create pages'
+tags:
+  - pages
 
 ---
 So you installed Stastic on an existing website or created a new one, and now you need to add pages? First of all you might want to read the section "[Stastic UI, the "pages" list](/docs/stastic-ui-the-pages-list)".

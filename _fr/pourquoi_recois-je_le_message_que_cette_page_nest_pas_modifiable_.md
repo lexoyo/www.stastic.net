@@ -1,5 +1,8 @@
 ---
 title: Pourquoi le message "cette page n'est pas modifiable" ?
+tags:
+  - pages
+
 
 ---
 Vous avez installé Stastic sur un site existant ou vous en avez créé un nouveau ? Vous êtes maintenant prêt à modifier une page ou un message, mais Stastic ne vous le permet pas et affiche le message "cette page n'est pas modifiable" au lieu de un contenu éditable ? 

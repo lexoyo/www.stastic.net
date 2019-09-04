@@ -1,5 +1,9 @@
 ---
 title: Pourquoi si peu de thèmes?
+tags:
+  - install
+  - login
+  - settings
 
 ---
 Comme expliqué dans la section "[D'où viennent les thèmes?](/docs/fr/dou-viennent-les-themes)", Stastic propose des thèmes gratuits pour vous permettre de créer un nouveau site. 

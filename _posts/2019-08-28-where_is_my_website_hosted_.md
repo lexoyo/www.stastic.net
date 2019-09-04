@@ -1,5 +1,9 @@
 ---
 title: Where is my website hosted?
+tags:
+  - install
+  - login
+  - preview
 
 ---
 This is an excellent question. And the answer is: Github hosts it, with its excellent service Github pages, please read the section "[What is Github pages?](/docs/what-is-github-pages)" to know more about this service. Also the section "[Who owns my data?]" may be of interest.

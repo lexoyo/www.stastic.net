@@ -1,5 +1,7 @@
 ---
 title: A qui appartiennent mes données
+tags:
+  - login
 
 ---
 L'application Stastic a accès à vos données publiques sur Github, tant que vous n'avez pas [supprimé les droits d'accès comme expliqué ici](https://developer.github.com/apps/managing-github-apps/editing-a-github-app-s-permissions/). 

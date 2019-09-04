@@ -1,5 +1,8 @@
 ---
 title: Comment éditer la page d'accueil de mon site ?
+tags:
+  - preview
+  - settings
 
 ---
 Vous avez donc installé Stastic sur un site existant ou vous en avez créé un nouveau, et maintenant vous souhaitez modifier la page d'accueil de celui-ci ? 

@@ -1,5 +1,7 @@
 ---
 title: How many websites can I create?
+tags:
+  - install
 
 ---
 Please check [the plan you subscribed to here](https://github.com/marketplace/stastic-website-editor#pricing-and-setup) and it will tell you what is it you can do with Stastic.

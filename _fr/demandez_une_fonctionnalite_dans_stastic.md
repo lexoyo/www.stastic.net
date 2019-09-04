@@ -1,5 +1,9 @@
 ---
 title: Demander une fonctionnalité dans Stastic
+tags:
+  - preview
+  - login
+  - install
 
 ---
 En tant qu’utilisateur, vous êtes la source d’informations la plus précieuse, nous permettant de savoir quoi ajouter à Stastic. 

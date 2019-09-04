@@ -1,5 +1,11 @@
 ---
 title: 'Whatever I change, my website does not update'
+tags:
+  - preview
+  - pages
+  - collection
+  - data
+  - settings
 
 ---
 So you are trying to edit the content of your website with Stastic, but the your website does not change whatever you add or remove or change? 

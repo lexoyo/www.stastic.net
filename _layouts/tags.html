@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: 'en' }}">
+
+  {% include lang.html %} 
+  {% include head.html %}
+
+  <body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TQBLBCG"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+    <div>
+
+      {% include header.html %}
+			{{ content }}
+      <div class="container mx-auto px-2 py-2">
+        {% for post in collec %}
+          {% if page.tag == null or post.tags contains page.tag %}
+            <details class="py-2 mb-2 prose">
+              <summary style="cursor: pointer;" class="h3 col-9 mb-0">
+                {{ post.title }}
+              </summary>
+              <p>{{ post.content }}</p>
+            </details>
+          {% endif %}
+        {% endfor %}
+      </div>
+
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>

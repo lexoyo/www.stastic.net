@@ -1,6 +1,10 @@
 ---
 title: Combien de sites puis-je créer avec Stastic ?
 layout: post
+tags:
+  - login
+  - preview
+  - install
 
 ---
 Veuillez vérifier [le plan auquel vous êtes abonné ici](https://github.com/marketplace/stastic-website-editor#pricing-and-setup) et cela vous dira ce que vous pouvez faire avec Stastic. 

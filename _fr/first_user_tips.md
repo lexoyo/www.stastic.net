@@ -1,5 +1,7 @@
 ---
 title: Conseils pour les nouveaux utilisateurs
+tags:
+  - preview
 
 ---
 Bonjour nouvel utilisateur! 

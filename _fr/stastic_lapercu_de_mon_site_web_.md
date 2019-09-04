@@ -1,5 +1,7 @@
 ---
-title: 'Stastic UI, l''aperçu de mon site'
+title: "Stastic UI, l'aperçu de mon site"
+tags:
+  - preview
 
 ---
 L'éditeur de site Stastic peut être installé sur un site existant ou vous pouvez créer un nouveau site contenant Stastic, comme expliqué dans la section «[Comment installer Stastic?](https://www.stastic.net/docs/fr/comment-installer-stastic)». Vous pouvez ensuite accéder à l'interface d'administration pour modifier votre contenu, comme expliqué dans la section "[Comment accéder à l' admin Stastic ?](/docs/fr/comment-acceder-a-stastic-admin)". 

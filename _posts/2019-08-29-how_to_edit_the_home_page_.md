@@ -1,5 +1,9 @@
 ---
 title: How to edit the home page?
+tags:
+  - preview
+  - pages
+  - settings
 
 ---
 So you have installed Stastic on an existing website, or you created a new one, and now you are willing to edit the home page?

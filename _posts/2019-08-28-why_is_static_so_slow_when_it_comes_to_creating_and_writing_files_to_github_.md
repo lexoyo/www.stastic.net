@@ -1,5 +1,11 @@
 ---
 title: Why is Static so slow when it comes to creating and writing files to Github?
+tags:
+  - preview
+  - pages
+  - collection
+  - data
+  - settings
 
 ---
 Stastic is a website editor which lets you edit your files on Github, which is a fantastic service, as explained in the sections "[Who owns my data]" and "[Where is my website hosted?]".

@@ -1,5 +1,7 @@
 ---
 title: How to access my website?
+tags:
+  - install
 
 ---
 With Stastic, you can create a new website (see the section "[How to install Stastic?]"). Stastic will ask you for a name and will create a "repository" on Github (this is how Github calls your "projects"). 

@@ -1,5 +1,8 @@
 ---
 title: What is Stastic?
+tags:
+  - login
+  - install
 
 ---
 As explained in [the about page](/about) of this website:

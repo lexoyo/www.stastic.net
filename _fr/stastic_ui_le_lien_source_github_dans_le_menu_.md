@@ -1,5 +1,7 @@
 ---
 title: 'Stastic UI, le lien "Github source" dans le menu'
+tags:
+  - preview
 
 ---
 Comme expliqué dans la section «[À qui appartiennent mes données](/docs/fr/a-qui-appartient-mon-data)», Stastic vous permet de modifier le contenu stocké sur les serveurs de Github, dans un dossier de projet (repository). 

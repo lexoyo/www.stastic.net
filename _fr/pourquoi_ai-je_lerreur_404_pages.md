@@ -1,6 +1,12 @@
 ---
 title: Pourquoi ai-je des pages d'erreur
 layout: post
+tags:
+  - preview
+  - pages
+  - collection
+  - data
+  - settings
 
 ---
 ## Parfois, vous devez être patients

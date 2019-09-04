@@ -1,6 +1,10 @@
 ---
 title: Why do I get 404 error pages
 layout: post
+tags:
+  - preview
+  - pages
+  - collection
 
 ---
 ## Sometimes you need to wait

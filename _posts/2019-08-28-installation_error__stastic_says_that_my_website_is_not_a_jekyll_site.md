@@ -1,5 +1,7 @@
 ---
 title: 'Installation error: Stastic says that my website is not a Jekyll site'
+tags:
+  - install
 
 ---
 You are probably trying to install Stastic on an existing website - see the section "[How to install Stastic?]", and when you do, Stastic says that your website is "not a Jekyll site".

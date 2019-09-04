@@ -1,5 +1,12 @@
 ---
 title: Pourquoi Static est-il si lent pour lire et écrire des fichiers sur Github ?
+tags:
+  - preview
+  - pages
+  - collection
+  - data
+  - settings
+
 
 ---
 Stastic est un éditeur de site qui vous permet de modifier vos fichiers sur Github, un service fantastique, comme expliqué dans les sections "[À qui appartiennent mes données](https://www.stastic.net/docs/fr/a-qui-appartient-mon-data)" et "[Où mon site est-il hébergé ?](/docs/fr/ou-mon-site-web-est-il-heberge)". 

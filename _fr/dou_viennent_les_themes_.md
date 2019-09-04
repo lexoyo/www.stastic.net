@@ -1,5 +1,9 @@
 ---
 title: D'où viennent les thèmes ?
+tags:
+  - login
+  - settings
+  - install
 
 ---
 Stastic fournit une liste de thèmes pour que vous puissiez créer un nouveau site directement sur l'installeur Stastic - Consultez la section "[Installeur Stastic: choisissez entre "nouveau site" et "site existant"](https://www.stastic.net/docs/fr/stastic-install-choisir-entre-le-nouveau-site-web-et-le-site-web-existant)" 

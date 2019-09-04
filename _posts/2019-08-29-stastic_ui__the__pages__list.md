@@ -1,5 +1,8 @@
 ---
 title: 'Stastic UI, the "pages" list'
+tags:
+  - preview
+  - pages
 
 ---
 Stastic website editor can be installed on an existing website or you can create a new website with Stastic in it, as explained in the section “[How to install Stastic?]”. Then you can access the admin interface to edit your content as explained in the section “[How to access Stastic admin?](/docs/how-to-access-stastic-admin)”.

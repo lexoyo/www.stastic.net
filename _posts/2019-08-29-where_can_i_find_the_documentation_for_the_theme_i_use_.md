@@ -1,5 +1,10 @@
 ---
 title: Where can I find the documentation for the theme I use?
+tags:
+  - pages
+  - collection
+  - data
+  - settings
 
 ---
 If you need to know what options are available for your theme, how to edit the design or other theme-related issue, the best way to find useful information is to find the documentation of your theme.

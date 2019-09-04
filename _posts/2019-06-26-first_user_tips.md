@@ -1,5 +1,7 @@
 ---
 title: First user tips
+tags:
+  - preview
 
 ---
 Hello new user!

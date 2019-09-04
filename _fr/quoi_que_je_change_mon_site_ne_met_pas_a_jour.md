@@ -1,5 +1,11 @@
 ---
 title: 'Quoi que je change, mon site ne se met pas à jour'
+tags:
+  - preview
+  - pages
+  - collection
+  - data
+  - settings
 
 ---
 Vous essayez probablement de modifier le contenu de votre site avec Stastic, mais votre site ne change pas, quoi que vous ajoutiez, supprimez ou modifiez? 

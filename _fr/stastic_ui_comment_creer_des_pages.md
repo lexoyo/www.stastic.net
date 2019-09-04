@@ -1,5 +1,8 @@
 ---
 title: 'Stastic UI, comment créer des pages / posts'
+tags:
+  - pages
+  - collection
 
 ---
 Vous avez donc installé Stastic sur un site existant ou créé un nouveau site, et vous devez maintenant ajouter des pages? 

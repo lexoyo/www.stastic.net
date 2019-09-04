@@ -1,5 +1,9 @@
 ---
 title: Who owns my data
+tags:
+  - install
+  - login
+  - preview
 
 ---
 Stastic application has access to your public repository on Github, as long as you do not [remove the access rights as explained here](https://developer.github.com/apps/managing-github-apps/editing-a-github-app-s-permissions/).

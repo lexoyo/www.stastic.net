@@ -1,5 +1,11 @@
 ---
 title: 'Stastic UI, the "Github source" link in the menu.'
+tags:
+  - preview
+  - pages
+  - collection
+  - data
+  - settings
 
 ---
 As explained in the “[Who owns my data]”, Stastic lets you edit content stored on Github servers, in a project folder or "repository". 

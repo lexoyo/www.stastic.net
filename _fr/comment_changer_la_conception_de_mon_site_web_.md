@@ -1,5 +1,9 @@
 ---
 title: Comment changer le design de mon site internet ?
+tags:
+  - login
+  - preview
+  - settings
 
 ---
 Stastic peut être installé sur un site existant ou vous permet de créer un nouveau basé sur un thème qu'un designer tiers vous fournit, comme expliqué dans la section "[Comment installer Stastic?](/docs/fr/comment-installer-stastic)". 

@@ -1,5 +1,7 @@
 ---
 title: Paramètres des thèmes
+tags:
+  - settings
 
 ---
 Les paramètres sont une chose importante à modifier lorsque vous créez un nouveau site avec Stastic. 

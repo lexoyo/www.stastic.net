@@ -1,5 +1,7 @@
 ---
 title: Common theme settings
+tags:
+  - settings
 
 ---
 One important thing to edit when you create a new website with Stastic editor are the settings. As you probably know, [Stastic is powered by Jekyll](https://jekyllrb.com/) and the settings you can edit are either

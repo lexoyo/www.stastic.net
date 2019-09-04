@@ -1,5 +1,7 @@
 ---
 title: 'Stastic UI, la liste des posts'
+tags:
+  - collection
 
 ---
 Vous avez peut être installé l'éditeur de site Stastic sur un site existant ou créé un nouveau site contenant Stastic, comme expliqué dans la section «[Comment installer Stastic?](/docs/fr/comment-installer-stastic)». 

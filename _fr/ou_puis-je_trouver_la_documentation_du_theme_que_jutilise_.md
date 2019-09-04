@@ -1,5 +1,10 @@
 ---
 title: Où puis-je trouver la documentation du thème que j'utilise?
+tags:
+  - settings
+  - data
+  - collection
+  - pages
 
 ---
 Si vous avez besoin de savoir quelles options sont disponibles pour votre thème, comment modifier le design ou une autre question liée au thème, le meilleur moyen de trouver des informations utiles est se rendre sur la page de votre thème. 

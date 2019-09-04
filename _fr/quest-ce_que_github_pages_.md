@@ -1,5 +1,8 @@
 ---
 title: Qu'est-ce que Github pages ?
+tags:
+  - install
+  - login
 
 ---
 Github pages est un produit commercial de la société Github, décrit comme ceci sur [le site officiel](https://pages.github.com/)

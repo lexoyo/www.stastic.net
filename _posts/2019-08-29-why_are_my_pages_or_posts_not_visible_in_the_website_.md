@@ -1,5 +1,10 @@
 ---
 title: Why are my pages or posts not visible in the website?
+tags:
+  - preview
+  - pages
+  - collection
+  - data
 
 ---
 So you are trying to add content to your website with Stastic, but the pages or posts you add are not visible? 

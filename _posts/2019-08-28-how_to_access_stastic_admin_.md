@@ -1,5 +1,7 @@
 ---
 title: How to access Stastic admin?
+tags:
+  - install
 
 ---
 With Stastic, you can create a new website or install the editor on an existing website (see the section “[How to install Stastic?]”). In order to edit the content of your website you will want to access the "admin" or "editor".

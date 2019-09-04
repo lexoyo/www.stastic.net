@@ -1,5 +1,9 @@
 ---
 title: Où mon site est-il hébergé ?
+tags:
+  - install
+  - login
+  - preview
 
 ---
 C'est une excellente question ! Et la réponse est: Github l'héberge, avec son excellent service Github pages - cf la section "[Qu'est-ce que les Github pages?](/docs/fr/quest-ce-que-github-pages)". La section "[À qui appartiennent mes données?](/fr/a-qui-appartient-mon-data)" peut également vous intéresser. 

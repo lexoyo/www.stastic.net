@@ -1,5 +1,8 @@
 ---
 title: What is Jekyll?
+tags:
+  - install
+  - login
 
 ---
 Jekyll is an open source project and as it is explained on [the official website](https://jekyllrb.com/):

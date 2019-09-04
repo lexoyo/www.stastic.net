@@ -1,5 +1,8 @@
 ---
 title: Where do the themes come from?
+tags:
+  - install
+  - settings
 
 ---
 Stastic provide a list of themes for you to create a new site on Stastic - checkout the section "[Stastic installer: choose between "new website" and "existing website"]":

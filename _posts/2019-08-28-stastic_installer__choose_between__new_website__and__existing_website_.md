@@ -1,5 +1,7 @@
 ---
 title: 'Stastic installer: choose between "new website" and "existing website"'
+tags:
+  - install
 
 ---
 When you start [Stastic main app - the installer](https://stastic.net), you will have a choice to make:

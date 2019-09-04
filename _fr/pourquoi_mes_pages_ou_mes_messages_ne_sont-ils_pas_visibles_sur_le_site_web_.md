@@ -1,5 +1,9 @@
 ---
 title: Pourquoi les pages / posts ne sont-ils pas visibles sur mon site ?
+tags:
+  - preview
+  - pages
+  - collection
 
 ---
 Vous essayez probablement d'ajouter du contenu à votre site avec Stastic, mais les pages ou les posts que vous ajoutez ne sont pas visibles? 

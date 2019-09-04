@@ -1,5 +1,8 @@
 ---
 title: Qu'est-ce que Stastic ?
+tags:
+  - login
+  - preview
 
 ---
 Comme expliqué dans [la page à propos](/a_propos) de ce site:

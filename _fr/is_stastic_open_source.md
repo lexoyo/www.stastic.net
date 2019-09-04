@@ -1,5 +1,8 @@
 ---
 title: Stastic est-il open source ?
+tags:
+  - login
+  - install
 
 ---
 A ce jour, le code source de Stastic n'est pas public. Si vous pensez que nous devrions passer le pas, merci de [nous contacter comme expliqué sur cette page](/contact) et exprimez votre opinion ! 
