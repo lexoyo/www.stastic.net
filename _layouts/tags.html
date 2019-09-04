@@ -14,7 +14,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       {% include header.html %}
 			{{ content }}
       <div class="container mx-auto px-2 py-2">
-        {% for post in collec %}
+      {% if page.title %}
+        <h1 class="">
+          {{ page.title | capitalize }}
+        </h1>
+      {% endif %}
+       {% for post in collec %}
           {% if page.tag == null or post.tags contains page.tag %}
             <details class="py-2 mb-2 prose">
               <summary style="cursor: pointer;" class="h3 col-9 mb-0">
