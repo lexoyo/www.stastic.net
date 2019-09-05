@@ -11,7 +11,7 @@ Si ce que vous voyez est proche de l'image suivante ou, d'une manière plus gén
 
 ![Modification de la page d'accueil dans Stastic](https://www.stastic.net//assets/2019-08-04-773303.png) 
 
-La cause d'une page ne prenant pas en compte le contenu que vous fournissez dans l'éditeur Stastic est probablement que certains thèmes ont des pages "codées en dur". Pour comprendre cela, vous devez savoir que Stastic est construit sur Github pages qui utilisent [Jekyll](https://jekyllrb.com/) pour créer votre site, c'est-à-dire pour insérer votre contenu dans les modèles HTML du thème. En savoir plus sur [comment fonctionnent les modèles Jekyll](https://jekyllrb.com/docs/step-by-step/04-layouts/). 
+La cause d'une page ne prenant pas en compte le contenu que vous fournissez dans l'éditeur Stastic est probablement que certains thèmes ont des pages "codées en dur". Pour comprendre cela, vous devez savoir que Stastic est construit sur [Github pages](https://pages.github.com/) qui utilisent [Jekyll](https://jekyllrb.com/) pour créer votre site, c'est-à-dire pour insérer votre contenu dans les modèles HTML du thème. En savoir plus sur [comment fonctionnent les modèles Jekyll](https://jekyllrb.com/docs/step-by-step/04-layouts/). 
 
 Lorsque vous créez une page dans Stastic, vous pouvez définir le modèle utilisé pour mettre en page cette page (voir la liste déroulante en bas lors de la modification d'une page). Certains modèles ignorent simplement le contenu de votre page et affichent seulement du contenu HTML. Ceci est souvent fait pour les pages d'accueil qui peuvent avoir une conception plus complexe qu'un seul contenu de texte. 
 

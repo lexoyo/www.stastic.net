@@ -12,7 +12,7 @@ Vous essayez probablement de modifier le contenu de votre site avec Stastic, mai
 
 __Avez-vous lu la section "[Interface utilisateur stastique, comment créer des pages](/docs/fr/stastic-ui-comment-creer-des-pages)" ? Ainsi que la section "[Pourquoi Static est-il si lent pour lire et écrire des fichiers dans Github ?](/docs/fr/pourquoi-le-statique-est-il-si-lent-pour-creer-et-ecrire-des-fichiers-dans-github)"?__ 
 
-Il y a probablement un problème avec le contenu de votre site, ce qui provoque une erreur lorsque Github pages tente de le reconstruire. Ceci empêche le site de mettre à jour tout contenu - conseil: modifiez un contenu existant pour voir si c'est bien votre cas. Si tel est le cas, vous recevrez un email de la part de Github pages indiquant qu'il y avait un problème de construction de votre site. **Le problème peut venir d'un post ou d'une page ou encore des paramètres du site.** 
+Il y a probablement un problème avec le contenu de votre site, ce qui provoque une erreur lorsque [Github pages](https://pages.github.com/) tente de le reconstruire. Ceci empêche le site de mettre à jour tout contenu - conseil: modifiez un contenu existant pour voir si c'est bien votre cas. Si tel est le cas, vous recevrez un email de la part de Github pages indiquant qu'il y avait un problème de construction de votre site. **Le problème peut venir d'un post ou d'une page ou encore des paramètres du site.** 
 
 > Remarque: si une seule page n’est pas mise à jour, veuillez lire la section "[Comment éditer la page d’accueil de mon site?](/docs/fr/comment-modifier-la-page-daccueil)"
 

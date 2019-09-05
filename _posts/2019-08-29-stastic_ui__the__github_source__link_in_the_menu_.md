@@ -8,7 +8,7 @@ tags:
   - settings
 
 ---
-As explained in the “[Who owns my data]”, Stastic lets you edit content stored on Github servers, in a project folder or "repository". 
+As explained in the “[Who owns my data](/docs/who-owns-my-data)”, Stastic lets you edit content stored on Github servers, in a project folder or "repository". 
 
 When you open Stastic editor as explained in the section “[How to access Stastic admin?](/docs/how-to-access-stastic-admin)”, you have access to a side bar or a menu on mobile:
 

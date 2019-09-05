@@ -19,6 +19,6 @@ If you want to create a new website, choose this option! You will be able to sel
 This is the option you want if you already have a website and you want to edit its content with Stastic. This probably means that you are in one of these cases:
 
 * you want to use a theme you found on Github and you clicked "fork" to make it your own
-* you have created a website with Jekyll and host it on Github pages
+* you have created a website with Jekyll and host it on [Github pages](https://pages.github.com/)
 
 In both cases, Stastic will be installed in the "/admin" folder of your website or theme.

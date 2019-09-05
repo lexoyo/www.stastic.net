@@ -6,7 +6,7 @@ tags:
   - preview
 
 ---
-This is an excellent question. And the answer is: Github hosts it, with its excellent service Github pages, please read the section "[What is Github pages?](/docs/what-is-github-pages)" to know more about this service. Also the section "[Who owns my data?]" may be of interest.
+This is an excellent question. And the answer is: Github hosts it, with its excellent service [Github pages](https://pages.github.com/), please read the section "[What is Github pages?](/docs/what-is-github-pages)" to know more about this service. Also the section "[Who owns my data?]" may be of interest.
 
 Your next question is probably "Why Github pages?", and the answer is simple: it is a very powerful free service, by a company which has proven to be fair to their customers. Also other service should be supported in the future (Gitlab, Bitbucket, FTP?), let us know that you would enjoy these hosting,  [please contact us as explained on this page](/contact).
 
