@@ -1,12 +1,15 @@
 <header class="px-2 clearfix">
   <div class="right-lg absolute-lg right-0 top-0">
     <ul class="mt-1 mt-lg-2 mr-2 mr-lg-3">
-      {% assign nav = site.pages | sort_natural: 'nav' %}
+      {% assign dataFile = 'nav-' | append: page.lang %}
+      {% assign nav = site.data[dataFile] %}
       {% for my_page in nav %}
-        {% if my_page.title and my_page.lang == page.lang and my_page.nav != false and (my_page.layout == 'page' or my_page.layout == 'home') %}
+        {% if my_page.url != page.url %}
         <li class="inline-block block-lg text-right ml-1 ml-lg-0">
           <a class="italic no-underline h4" href="{{ my_page.url | relative_url }}">
+            {% if forloop.first %}<strong>{% endif %}
             {{ my_page.title }}
+            {% if forloop.first %}</strong>{% endif %}
           </a>
         </li>
         {% endif %}
