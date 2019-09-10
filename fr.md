@@ -15,7 +15,7 @@ description: Stastic est votre éditeur de sites web statiques.
 		</div>
 -->
          <a href="https://stastic.net"><button>
-           Commencer maintenant !
+           Commencer
         </button></a>
 
 	</div>
