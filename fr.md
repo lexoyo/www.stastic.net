@@ -14,7 +14,7 @@ description: Stastic est votre éditeur de sites web statiques.
 <!--		<div class="col-1 sm-width-full border-top-thick">
 		</div>
 -->
-         <a href="https://stastic.net"><button>
+         <a href="https://editor.stastic.net"><button>
            Commencer
         </button></a>
 
