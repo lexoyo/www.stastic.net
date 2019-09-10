@@ -15,7 +15,7 @@ nav: 1
 		</div>
 -->
          <a href="https://stastic.net"><button>
-           Start now !
+           Start now!
         </button></a>
 	</div>
 
