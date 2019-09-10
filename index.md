@@ -14,7 +14,7 @@ nav: 1
 <!--		<div class="col-1 sm-width-full border-top-thick">
 		</div>
 -->
-         <a href="https://stastic.net"><button>
+         <a href="https://editor.stastic.net"><button>
            Start now!
         </button></a>
 	</div>
