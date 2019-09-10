@@ -1,6 +1,3 @@
-- name: Home
+- title: Home
   url: /
-- name: A test page
-  url: /test.html
-- name: External link
-  url: https://duckduckgo.org
+  lang: en
