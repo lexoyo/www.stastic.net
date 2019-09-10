@@ -11,11 +11,12 @@ nav: 1
 
 	<div class="clearfix mb-4 py-1">
 		<p class="h4 lh-condensed font-smoothing">{{ site.description }}</p>
-		<div class="col-1 sm-width-full border-top-thick">
+<!--		<div class="col-1 sm-width-full border-top-thick">
 		</div>
-	</div>
+-->
          <a href="https://stastic.net"><button>
            Start now !
         </button></a>
+	</div>
 
 </div>
