@@ -4,9 +4,7 @@ tags:
   - pages
 
 ---
-
 So you have installed Stastic on an existing website, or you created a new one, and now you are willing to edit a page or post, but Stastic does not let you do this and displays the message "this page is not editable" instead of an editable content?
-
 
 ![Stastic page which is not editable](https://www.stastic.net//assets/2019-08-04-924319.png)
 
