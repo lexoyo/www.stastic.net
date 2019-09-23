@@ -1,5 +1,8 @@
 ---
 title: How to use Stastic with multiple Github accounts?
+tags:
+  - login
+  - install
 
 ---
 If you're using Stastic with a Github account and you want to switch to another Github account, you've probably tried to log out and then login again, and you've noticed that Stastic is still using the same account.
