@@ -1,5 +1,8 @@
 ---
 title: Comment utiliser Stastic avec plusieurs comptes Github ?
+tags:
+  - login
+  - install
 
 ---
 Si vous utilisez Stastic avec un compte Github et vous désirez vous passer sur un autre compte Github, vous avez probablement essayé de vous déconnecter puis reconnercter, et vous avez remarqué que Stastic utilise toujours le même compte.
