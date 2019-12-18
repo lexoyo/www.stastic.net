@@ -1,5 +1,5 @@
 ---
-title: "Stastic UI, l'aperçu de mon site"
+title: 'Stastic UI, l''aperçu de mon site'
 tags:
   - preview
 
@@ -16,3 +16,4 @@ Vous pouvez en savoir plus sur la construction des sites dans la section "[Pourq
 
 Notez également qu'il existe un symbole "lien externe" à côté du menu "Site" (![le symbole du lien externe](https://www.stastic.net//assets/2019-08-04-371034.png)). Ce lien est particulier car il ajoute un nombre aléatoire à la fin de l'URL de votre site. Ceci a pour but d'empêcher le cache de votre navigateur de vous laisser voir la dernière version de votre site, par exemple `https://votre-siteweb.com?1783 `.
 
+Vous pouvez lire aussi cet article: [Comment prévisualiser une publication?](https://www.stastic.net/docs/fr/comment-pr-visualiser-une-publication)
