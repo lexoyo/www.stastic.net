@@ -23,5 +23,5 @@ Once the build is over, the wheel disapears and the preview is automatically upd
 
 Also note that there is an "external link" symbol beside the "Website" menu (![the external link symbol](https://www.stastic.net//assets/2019-08-04-371034.png)). This link is special becaus it ads a random number at the end of your website URL, this is meant to prevent your browser cache for you to see the latest version of your website, e.g. `https://your-website.com?1783`.
 
-Also read this interesting article: [[How to preview a post?]]
+Also read this interesting article: [How to preview a post?](https://www.stastic.net/docs/how-to-preview-a-post)
 
