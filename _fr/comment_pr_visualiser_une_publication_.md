@@ -1,5 +1,7 @@
 ---
 title: Comment prévisualiser une publication?
+tags:
+  - preview
 
 ---
 Dans le cas où votre site Web est en ligne et que vous souhaitez prévisualiser les modifications avant que vos visiteurs ne le voient.
