@@ -1,6 +1,7 @@
 ---
 title: How to preview a post?
-
+tags:
+  - preview
 ---
 In the case your website is live and you want to preview changes before your visitors see it.
 
