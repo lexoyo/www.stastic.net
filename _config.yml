@@ -7,8 +7,8 @@ github_username: ''
 social_link: ''
 social_username: ''
 theme_color: light
-baseurl: /www.stastic.net
-url: ''
+baseurl: /
+url: 'https://www.stastic.net'
 remote_theme_layouts:
   - default
   - home
