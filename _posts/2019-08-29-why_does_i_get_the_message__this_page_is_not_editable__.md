@@ -2,6 +2,7 @@
 title: Why do I get the message "this page is not editable"?
 tags:
   - pages
+layout: default
 
 ---
 So you have installed Stastic on an existing website, or you created a new one, and now you are willing to edit a page or post, but Stastic does not let you do this and displays the message "this page is not editable" instead of an editable content?
