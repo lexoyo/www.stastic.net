@@ -1,7 +1,7 @@
 title: Stastic Website Editor
 title_fr: Stastic Web Editeur
 description: Stastic is the easiest way to manage a static website.
-description_fr: Stastic est le moyen le plus simple de gérer un site web statique.
+description_fr: Stastic est votre éditeur de sites web statiques.
 github_repo: ''
 github_username: ''
 social_link: ''
@@ -17,42 +17,32 @@ remote_theme_layouts:
   - category-post
   - category_index
 permalink: '/:slug'
-
 defaults:
-  -
-    scope:
-      path: "" 
+  - scope:
+      path: ''
     values:
-      layout: "post"
-  -
-    scope:
-      path: "" 
-      type: "posts" 
+      layout: post
+  - scope:
+      path: ''
+      type: posts
     values:
-      lang: "en"
-  -
-    scope:
-      path: "" 
-      type: "fr" 
+      lang: en
+  - scope:
+      path: ''
+      type: fr
     values:
-      lang: "fr"
-  -
-    scope:
-      path: "" 
-      type: "pages" 
+      lang: fr
+  - scope:
+      path: ''
+      type: pages
     values:
-      layout: "page"
-
-
+      layout: page
 collections:
   posts:
-    permalink: /docs/:slug
+    permalink: '/docs/:slug'
     output: true
   fr:
-    permalink: /docs/fr/:slug
+    permalink: '/docs/fr/:slug'
     output: true
-
-
-#    permalink: /:collection/:name
-exclude: [vendor]
-
+exclude:
+  - vendor
