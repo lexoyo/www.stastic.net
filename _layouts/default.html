@@ -1,22 +1,130 @@
-<!DOCTYPE html>
-<html lang="{{ page.lang | default: 'en' }}">
+<!doctype html><html class="" lang=""><head>
+    <meta charset="UTF-8">
+    <!-- generator meta tag -->
+    <!-- leave this for stats and Silex version check -->
+    <meta name="generator" content="Silex v2.2.13">
+    <!-- End of generator meta tag -->
+    <script type="text/javascript" src="{{ site.url }}{{ site.baseurl }}/js/jquery.js"></script>
+    
+    
+    <script type="text/javascript" src="{{ site.url }}{{ site.baseurl }}/js/front-end.js"></script>
+    <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/css/normalize.css">
+    <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/css/front-end.css">
 
-  {% include head.html %}
-  
-  <!-- font-smoothing is only applied on dark themes -->
-  <body class="font-smoothing">
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TQBLBCG"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
-    {% include header.html %}
+    
+    <script type="text/javascript" class="silex-script"></script>
+    
+    <title></title>
+    
 
-    <div>
-      {{ content }}
+    
+<meta name="viewport" content="width=device-width, initial-scale=1"><script src="{{ site.url }}{{ site.baseurl }}/js/script.js" type="text/javascript"></script><link href="{{ site.url }}{{ site.baseurl }}/css/styles.css" rel="stylesheet" type="text/css"><style>body { opacity: 0; transition: .25s opacity ease; }</style></head>
+
+<body class="body-initial all-style enable-mobile prevent-resizable prevent-selectable editable-style silex-runtime silex-published" data-silex-type="container-element" style="" data-current-page="page-default">
+    
+
+
+
+
+
+
+
+
+
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section data-silex-type="container-element" class="editable-style section-element silex-id-1641218892264-16 page-default paged-element hide-on-desktop paged-element-visible"><div data-silex-type="container-element" class="editable-style container-element silex-id-1641218892265-17 silex-element-content website-width prevent-draggable" style=""><div data-silex-type="text-element" class="editable-style text-element silex-id-1641218940598-18 page-default paged-element silex-component-hamburger prevent-resizable prevent-auto-z-index paged-element-visible" style=""><div class="silex-element-content normal"><style>.hamburger-menu_1641218941102_248 {position: absolute; z-index: 20;}.silex-editor .hamburger-menu_1641218941102_248 nav {left: -9999px;}.hamburger-menu_1641218941102_248 nav ul {margin-top: 80px;}.hamburger-menu_1641218941102_248 nav {opacity: 0; position: absolute; background-color: #ededed; transition: left 1s ease, height 0s ease 1s; left: -300px; width: 300px; height: 20px;}.hamburger-menu_1641218941102_248.open nav {opacity: 1; height: 100vh; left: 0; transition: left 1s ease, height 0s ease 0s;}.hamburger-menu_1641218941102_248 .nav-container {z-index: 10; position: absolute;}.hamburger-menu_1641218941102_248.open .nav-container {}.hamburger-menu_1641218941102_248 .hamburger-btn {z-index: 20; cursor: pointer; position: absolute;}.hamburger-menu_1641218941102_248 .hamburger-btn span {display: block; width: 30px; height: 5px; margin-bottom: 3px; position: relative; background-color: #000000; border: 1px solid #ffffff; border-radius: 3px; transition: border-color 0.1s ease-in,
+      opacity 0.1s ease-in,
+      transform 0.1s ease-in,
+      background 0.1s ease-in;}.hamburger-menu_1641218941102_248.open .hamburger-btn span {border-color: rgba(255, 255, 255, 0);}.hamburger-menu_1641218941102_248 .hamburger-btn span:first-child {transform-origin: 4px -2px;}.hamburger-menu_1641218941102_248.open .hamburger-btn span:first-child {transform: rotate(45deg) translate(7px, -4px);}.hamburger-menu_1641218941102_248.open .hamburger-btn span:nth-last-child(2) {opacity: 0;}.hamburger-menu_1641218941102_248 .hamburger-btn span:nth-child(3) {transform-origin: -11px 4px;}.hamburger-menu_1641218941102_248.open .hamburger-btn span:nth-child(3) {transform: rotate(-45deg) translate(0, 12px);}</style>
+<!-- inspired by https://codepen.io/erikterwan/pen/EVzeRP -->
+<div class="hamburger-menu_1641218941102_248 closed">
+    <div class="hamburger-btn ">
+      <span></span>
+      <span></span>
+      <span></span>
     </div>
+    <div class="nav-container">
+      <div class="prevent-scale">
+        <nav role="navigation" class="">
+            <ul>
+            
+            </ul>
+        </nav>
+      </div>
+  </div>
+</div>
+<script>
+(function() {
+  var isOpen = false;
+  function close() {
+    isOpen = false;
+    $('.hamburger-menu_1641218941102_248').removeClass('open');
+    $('.hamburger-menu_1641218941102_248').addClass('closed');
+  }
+  function open() {
+    isOpen = true;
+    $('.hamburger-menu_1641218941102_248').addClass('open');
+    $('.hamburger-menu_1641218941102_248').removeClass('closed');
+  }
+  function toggle() {
+    if(isOpen) close();
+    else open();
+  }
+  var silexElement = $('.hamburger-menu_1641218941102_248').closest('.editable-style');
+  function move(data) {
+    var offset = silexElement.offset();
+    $('.hamburger-menu_1641218941102_248 .nav-container').css({
+      'transform': 'translate(' + (data.scrollLeft - (offset.left/data.scale)) + 'px, ' + (data.scrollTop - (offset.top/data.scale)) + 'px)'
+    });
+  }
+  $('.hamburger-menu_1641218941102_248 .hamburger-btn').click(function() { toggle(); });
+  $(document).on('silex.scroll silex.resize', function(e) {
+    close();
+    move(window.silex);
+  });
+  close();
+})();
+</script>
+</div></div></div></section><section data-silex-type="container-element" class="container-element editable-style silex-id-1478366444112-1 section-element prevent-resizable" style="">
+        <div data-silex-type="container-element" class="editable-style silex-element-content silex-id-1478366444112-0 container-element website-width" style=""><div data-silex-type="image-element" class="editable-style image-element silex-id-1641214154050-1 page-page-1" style=""><img src="{{ site.url }}{{ site.baseurl }}/assets/stastic-logo.svg"></div><div data-silex-type="text-element" class="editable-style text-element silex-id-1641215412746-4 page-page-1 style-nav hide-on-mobile" style="" href="null"><div class="silex-element-content normal"><ul><li><a href="https://singchan.github.io/www.stastic.net/"><b>Home</b></a></li><li><a href="https://stastic.net/">Stastic App</a></li></ul><span class="_wysihtml-temp-caret-fix" style="position: absolute; display: block; min-width: 1px; z-index: 99999;">﻿</span></div></div><div data-silex-type="container-element" class="editable-style container-element silex-id-1641215983495-7 page-page-1" style=""><div data-silex-type="text-element" class="editable-style text-element silex-id-1641215956733-6 page-page-1 style-lang" style="" href="null"><div class="silex-element-content normal"><p><a href="/" linktype="LinkTypeExternal" title="English version">EN</a></p></div></div><div data-silex-type="text-element" class="editable-style text-element silex-id-1641216469407-8 page-page-1 style-lang" href="null" style=""><div class="silex-element-content normal"><p><a href="/fr/" linktype="LinkTypeExternal" title="Version française">FR</a></p></div></div></div><a data-silex-type="text-element" class="editable-style text-element silex-id-1641118763905-1 page-page-1 button style-button" style="" href="https://editor.stastic.net/"><div class="silex-element-content normal"><p>Start Now!</p></div></a></div>
+    </section><section data-silex-type="container-element" class="container-element editable-style silex-id-1474394621033-3 section-element prevent-resizable" style="">
+        <div data-silex-type="container-element" class="editable-style silex-element-content silex-id-1474394621032-2 container-element website-width selected"><div data-silex-type="text-element" class="editable-style text-element silex-id-1641214833733-0 page-page-1" href="null" style=""><div class="silex-element-content normal"><h1 class="h0 inline-block py-2 mt-4 header-title">{{ page.title }}</h1></div></div></div>
+    </section><section data-silex-type="container-element" class="editable-style section-element silex-id-1641215133199-1 page-page-1 page-default paged-element page-home paged-element-visible"><div data-silex-type="container-element" class="editable-style container-element silex-id-1641215133201-2 silex-element-content website-width prevent-draggable" style=""><div data-silex-type="text-element" class="editable-style text-element silex-id-1641215204790-3" style="" href="null"><div class="silex-element-content normal">{{ content }}</div></div></div></section><section data-silex-type="container-element" class="editable-style section-element silex-id-1641216789144-9 page-page-1 page-default paged-element paged-element-visible"><div data-silex-type="container-element" class="editable-style container-element silex-id-1641216789146-10 silex-element-content website-width prevent-draggable">{% assign user_url = site.url | append: site.baseurl %}
+{% assign full_base_url = user_url | default: site.github.url %}
+{% if page.previous.url %}<div data-silex-type="container-element" class="editable-style container-element silex-id-1641216810028-11" style=""><div data-silex-type="text-element" class="editable-style text-element silex-id-1641216889039-12 style-card" style="" href="null"><div class="silex-element-content normal">    <a class="no-underline-hover py-1 block" href="{{ page.previous.url | prepend: full_base_url }}">
+      <span class="h5 bold">Previous</span>
+      <p class="bold h3 link-primary mb-1">{{ page.previous.title }}</p>
+      <p>{{ page.previous.content | strip_html | truncatewords:20 }}</p>
+    </a>
+</div></div></div>{% endif %}{% assign user_url = site.url | append: site.baseurl %}
+{% assign full_base_url = user_url | default: site.github.url %}
+{% if page.next.url %}<div data-silex-type="container-element" class="editable-style container-element silex-id-1641217320991-14" style=""><div data-silex-type="text-element" class="editable-style text-element silex-id-1641217320992-15 style-card" style="" href="null"><div class="silex-element-content normal">    <a class="no-underline-hover py-1 block" href="{{ page.next.url | prepend: full_base_url }}">
+      <span class="h5 bold">Next</span>
+      <p class="bold h3 link-primary mb-1">{{ page.next.title }}</p>
+      <p>{{ page.next.content | strip_html | truncatewords:20 }}</p>
+    </a></div></div></div>{% endif %}</div></section><section data-silex-type="container-element" class="container-element editable-style silex-id-1478366450713-3 section-element prevent-resizable" style="">
+        <div data-silex-type="container-element" class="editable-style silex-element-content silex-id-1478366450713-2 container-element website-width" style="">
 
-    {% include footer.html %}
-
-  </body>
-
-</html>
+            <div class="editable-style silex-id-1442914737143-3 text-element" data-silex-type="text-element" style="" href="null">
+                <div class="silex-element-content normal">{{ site.footer }}</div>
+            </div>
+        </div>
+    </section></body></html>
